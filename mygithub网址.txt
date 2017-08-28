@@ -1,1 +1,1 @@
-https://github.com/504706799/mygithub/tree/master
+https://github.com/504706799/mygithub.git
